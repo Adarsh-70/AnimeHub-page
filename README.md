@@ -2,6 +2,8 @@
 
 A sleek, responsive anime slider showcasing popular anime series with smooth transitions, interactive thumbnails, and accessibility features.
 
+## 🌐 Live https://adarsh-70.github.io/AnimeHub-page/
+
 ## Features ✨
 
 - **Animated Slider**: Smooth transitions between anime showcases
